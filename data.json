@@ -1,0 +1,71 @@
+{
+"profiles":[
+{
+"basics":{
+"name":"hari",
+"role":"Student",
+"email":"hari.hari2@gmail.com",
+"mobile":"4645767458",
+"gender":"male",
+"address":"vijayawada"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"80%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"international College",
+                    "result":"96%"
+},
+{
+                    "degree":"S.S.C",
+                    "institute":"melbon school",
+                    "result":"100%"
+}
+
+
+]
+},
+   {
+    "basics":{
+"name":"ntr",
+"role":"Student",
+"email":"ntr.jr@gmail.com",
+"mobile":"789789789",
+"gender":"male",
+"address":"vijayawada,Andhra pradesh"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"70%"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"bala College",
+                    "result":"89%"
+},
+{
+                    "degree":"ssc school",
+                    "institute":"krishna school",
+                    "result":"98%"
+}
+
+
+]
+   }
+
+]
+}  
